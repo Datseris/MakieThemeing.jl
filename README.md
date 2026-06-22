@@ -15,3 +15,8 @@ Highlight is the `axesgrid`, `figuretitle!` and `label_axes!` functions.
 MakieForProjects.jl also integrates with DrWatson and overloads `wsave` for `Makie.Figure` objects.
 
 For all other information, see the online docs.
+
+This is not a registered package. To install it, do:
+```
+pkg> add https://github.com/Datseris/MakieForProjects.jl
+```
